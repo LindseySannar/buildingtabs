@@ -1,0 +1,15 @@
+body {
+  background-color: lightgrey;
+}
+nav div {
+border-style: solid;
+text-align: center;
+background-color:white;
+}
+nav a {
+text-decoration: none;
+color:maroon;
+}
+div:hover {
+background-color:lightgrey
+}
